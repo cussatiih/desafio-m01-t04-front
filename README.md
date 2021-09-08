@@ -143,7 +143,7 @@ Seções
 - [Links no HTML](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/13/08/2021/aula/aa14de20-54fc-4264-b9da-f3f970c9a24f/aff49cba-98f4-40f9-8959-1ef22e375020)
 - [Box-model](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/18/08/2021/aula/330c1834-c256-4cd5-80fa-907d47123150/1481ec13-e9f1-40de-adec-5e5873a7236c)
 - [Reset de margins e paddings](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/18/08/2021/aula/330c1834-c256-4cd5-80fa-907d47123150/b47081ba-23a0-4c9d-8f83-a32e00922c59)
-- [Retirando a underline dos links](hhttps://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/20/08/2021/aula/7fd0a4a1-cec5-4287-982b-9fdfa9547402/516d05e7-a3c4-44d0-9dd0-6f3eaa4e83d3)
+- [Retirando a underline dos links](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/20/08/2021/aula/7fd0a4a1-cec5-4287-982b-9fdfa9547402/516d05e7-a3c4-44d0-9dd0-6f3eaa4e83d3)
 - [Modificando o tamanho das fontes](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/20/08/2021/aula/7fd0a4a1-cec5-4287-982b-9fdfa9547402/0c12410a-67b7-4b41-98af-292204c11984)
 - [Modificando o peso das fontes](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/20/08/2021/aula/7fd0a4a1-cec5-4287-982b-9fdfa9547402/bb8fdb85-dfcc-445d-bf4b-7ca094748cab)
 - [Modificando as fontes](https://plataforma.cubos.academy/curso/90bb4fdd-85c7-4f90-9753-38c264a80382/data/20/08/2021/aula/7fd0a4a1-cec5-4287-982b-9fdfa9547402/361f005d-a3b8-4438-94c7-5d9c6b143e85)
