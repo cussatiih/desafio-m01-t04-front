@@ -169,6 +169,7 @@ Seções
 
 
 ###### tags: `front-end` `módulo 1` `HTML` `CSS` `desafio`
+<<<<<<< HEAD
 Front-end
 Desafio 1 - Frontend
 
@@ -343,3 +344,5 @@ Seções
 
 
 ###### tags: `front-end` `módulo 1` `HTML` `CSS` `desafio`
+=======
+>>>>>>> 2034e8bc57405e25c8791103a205df90f0982a66
