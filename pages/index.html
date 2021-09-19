@@ -3,40 +3,46 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;700&family=Public+Sans&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="../css/global.css">
+        <link rel="stylesheet" href="../css/index.css">
         <title>Home</title>
     </head>
 
     <body>
+        <header class="row justify-between align-center">
+            <img src="../assets/logo-dark.svg" alt="Logo-dark">
+            <nav class="menu">
+                <ul class="row justify-between">
+                    <li><a class="curr-page" href="#">HOME</a></li>
+                    <li><a class="link-other-page" href="#">PORTFOLIO</a></li>
+                    <li><a class="link-other-page" href="#">CONTATO</a></li>
+                </ul>
+            </nav>
+        </header>
 
-        <div class="container">
-            <header>
-                <img src="../assets/logo-dark.svg" alt="Logo">
-                <nav>
-                    <ul>
-                        <li class="curr-page">HOME</li>
-                        <li>PORTFOLIO</li>
-                        <li>CONTATO</li>
-                    </ul>
-                </nav>
-            </header>
-    
-            <section class="hero">
-                <aside class="introduction">
-                    <p>
+        <div class="container column justify-between">
+            <section class="hero row align-end">
+                <aside class="introduction column justify-between">
+                    <h1>
                         Olá, me chamo Alex Spencer e eu amo construir websites lindos 
-                    </p>
+                    </h1>
 
-                    <a href="#">
-                        <img src="..\assets\icons\down-arrows.svg" alt="Arrow pointing down"> 
+                    <a class="primary-btn row justify-between align-center" href="#">
+                        <div class="down-arrow row justify-center align-center">
+                            <img src="..\assets\icons\down-arrows.svg" alt="Arrow pointing down"> 
+                        </div>
                         <span>SOBRE MIM</span>
                     </a>
                 </aside>
             </section>
     
-            <section class="about">
+            <section class="about row justify-between">
                 <img src="../assets/home/image-homepage-profile.jpg" alt="Profile image">
-                <div class="about-me">
-                    <h1>Sobre mim</h1>
+                <div class="about-me column justify-around">
+                    <h2>Sobre mim</h2>
                     <p>
                         Sou um desenvolvedor front-end júnior procurando por uma oportunidade. 
                         Eu foco em escrever HTML acessível, usando práticas modernas de CSS e 
@@ -48,17 +54,37 @@
                          a natureza seja para uma caminhada, corrida ou ciclismo. Eu amaria se 
                          você desse uma olhada no meu trabalho.
                     </p>
+
+                    <a class="secondary-btn self-start" href="#">IR PARA PORTFOLIO</a>
                 </div>
             </section>
     
-            <section class="contact">
-                <h1>Interessado em fazer projetos comigo?</h1>
-                <a href="#">CONTATO</a>
+            <section class="contact row justify-between align-center">
+                <h2>Interessado em fazer<br>projetos comigo?</h2>
+                <a class="secondary-btn" href="#">CONTATO</a>
             </section>
-    
-            <footer></footer>
 
         </div>
+
+        <footer class="row justify-center align-center">
+            <div class="container-footer row justify-between align-center">
+                <nav class="menu-footer row justify-around align-center">
+                    <img src="../assets/logo-light.svg" alt="Logo-light">
+                    <ul class="row justify-between">
+                        <li><a href="#">HOME</a></li>
+                        <li><a href="#">PORTFOLIO</a></li>
+                        <li><a href="#">CONTATO</a></li>
+                    </ul>
+                </nav>
+
+                <div class="social row justify-between align-center">
+                    <img src="../assets/icons/github-light.svg" alt="Github Icon">
+                    <img src="../assets/icons/twitter-light.svg" alt="Twitter Icon">
+                    <img src="../assets/icons/linkedin-light.svg" alt="Linkedin Icon">
+                </div>
+            </div>
+            
+        </footer>
         
     </body>
 </html>
