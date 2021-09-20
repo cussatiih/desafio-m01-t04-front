@@ -66,6 +66,8 @@ ul {
     flex-direction: column;
 }
 
+
+
 .justify-between {
     justify-content: space-between;
 }
@@ -161,6 +163,10 @@ ul {
 .secondary-btn:hover {
     background: #33323D;
     color: #FAFAFA;
+}
+
+.contact {
+    margin-top: 150px;
 }
 
 footer {
