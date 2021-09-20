@@ -10,3 +10,7 @@
     border-top: solid 1px rgba(51, 50, 61, 0.15);
     border-bottom: solid 1px rgba(51, 50, 61, 0.15);
 }
+
+.bookmark {
+    margin-top: 80px;
+}
